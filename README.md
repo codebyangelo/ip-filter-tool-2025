@@ -1,5 +1,7 @@
 # ip-filter-tool-for-access-control-2025
 
+[![CI: Python Test](https://github.com/codebyangelo/PROJECT-NAME/actions/workflows/test.yml/badge.svg)](https://github.com/codebyangelo/ip-filter-tool-2025/actions/workflows/test.yml)
+
 **Project Name:** `ip_filter_tool.py`
 
 A Python-based script that enforces network access control by maintaining an allow-list of authorized IP addresses. Built as part of the Google Cybersecurity Certificate portfolio to demonstrate applied scripting in real-world data security scenarios.
