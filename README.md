@@ -1,6 +1,6 @@
 # ip-filter-tool-for-access-control-2025
 
-[![CI: Python Test](https://github.com/codebyangelo/PROJECT-NAME/actions/workflows/test.yml/badge.svg)](https://github.com/codebyangelo/ip-filter-tool-2025/actions/workflows/test.yml)
+[![CI: Python Test](https://github.com/codebyangelo/ip-filter-tool-2025/actions/workflows/test.yml/badge.svg)](https://github.com/codebyangelo/ip-filter-tool-2025/actions/workflows/test.yml)
 
 **Project Name:** `ip_filter_tool.py`
 
